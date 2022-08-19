@@ -1,5 +1,5 @@
 # TTGO-CLOCK
-I have used LILYGO TTGO esp32 dev board to create a simple Internet Clock
+I have used LILYGO TTGO esp32 dev board to create a awesome looking simple Internet Clock
 
 # Changes to do When Using:
 1. Change the time Zone 
